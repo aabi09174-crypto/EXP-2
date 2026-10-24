@@ -56,11 +56,10 @@ Calculation: <img width="180" height="150" alt="image" src="https://github.com/u
 
 Open circuit characteristics
   
-Tabulation for magnetisation Load Characteristics:<img width="752" height="435" alt="image" src="https://github.com/user-attachments/assets/efec5158-360b-4477-a6cd-10adc6d3de3d" />
+Tabulation for magnetisation Load Characteristics:<img width="752" height="433" alt="image" src="https://github.com/user-attachments/assets/ca6a32f8-9c62-478c-a6ba-41bb3e180b4c" />
 
-Model graph:<img width="522" height="213" alt="image" src="https://github.com/user-attachments/assets/a19340fb-f66f-420a-b787-e17273c924b1" />
+Model graph:<img width="522" height="217" alt="image" src="https://github.com/user-attachments/assets/cfcbd642-1421-4bf4-9573-ba2338bf9919" />
 
-Calculation:<img width="222" height="225" alt="image" src="https://github.com/user-attachments/assets/17970bc9-3261-431d-a456-5b9a8ec9b0d7" />
-
+Calculation:<img width="225" height="212" alt="image" src="https://github.com/user-attachments/assets/bfc93ebd-2aff-4b5d-ba05-ede97ae02bc9" />
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
