@@ -38,7 +38,6 @@ Procedure
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Procedure for Load test:
-
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
 3.   By varying the generator field rheostat gradually, the rated voltage [Eg] is obtained.
@@ -51,14 +50,11 @@ Tabulation for Open Circuit Test
 
 Tabulation for Load Test:<img width="972" height="445" alt="image" src="https://github.com/user-attachments/assets/4d8f7b53-d39e-410e-8e1a-f1aa2a8b4946" />
 
-
 Model graph:<img width="985" height="315" alt="image" src="https://github.com/user-attachments/assets/2c3c3a1b-4f45-46ad-aeb7-f0126b4735a5" />
 
 Calculation: <img width="180" height="150" alt="image" src="https://github.com/user-attachments/assets/93812f06-987d-442b-a13d-cfff4fb596e7" />
 
-
 Open circuit characteristics
-
   
 Tabulation for magnetisation Load Characteristics:<img width="752" height="435" alt="image" src="https://github.com/user-attachments/assets/efec5158-360b-4477-a6cd-10adc6d3de3d" />
 
